@@ -1,2 +1,3 @@
 Proyecto de informática el cual hará las funciones..., mediante ...
 Proyecto a cargo del programador Jorge Izquierdo
+Este es un cambio hecho desde GitHub por JorgeIzquierdo
